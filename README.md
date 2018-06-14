@@ -1,9 +1,7 @@
 # BlackopsHacks
 ### @hackedbyshmoo
 
-**- Point Modifier**
-**- Wave Modifier**
-**- Always Spawn Pickups**
+**Point Modifier, Wave Modifier, Always Spawn Pickups**
 
 A (non-Unity) example of abusing static classes and applying hacks via threading.
 
