@@ -1,6 +1,10 @@
 # BlackopsHacks
 ### @hackedbyshmoo
 
+### - Point Modifier
+### - Wave Modifier
+### - Always Spawn Pickups
+
 A (non-Unity) example of abusing static classes and applying hacks via threading.
 
 In IDA Pro, if you search for the string `SystemStatic`, you'll get a list of all the static classes in the game. Too bad there's so few of them.
